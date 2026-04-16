@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "nome": "Centro Nacional de Paraquedismo",
+    "endereco": "Avenida Industrial, 1215 - Campo de Boituva",
+    "conducao": "Ir até o  Terminal Rodoviário Pedro Leonardo e pegar o Onibus 6327 - Iperó - Vila do Depósito, descer na Av. Mário Pedro Vercellino, 430 + caminhada aproximadamente 24min - Horários de Saída 10h, 11h15, 11h20, 12h, 12h30",
+    "descricao": "Maior centro de paraquedismo da América Latina. É o principal atrativo de adrenalina da cidade, com saltos duplos (tandem) a mais de 3.600m de altura.",
+    "categoria": "adrenalina"
+  },
+  {
+    "id": 2,
+    "nome": "Passeio de Balão Boituva",
+    "endereco": "Rua Domingos Waldemar Belluci, 15 - Campo Boituva",
+    "conducao": "Ir até o  Terminal Rodoviário Pedro Leonardo e pegar o Onibus 6327 - Iperó - Vila do Depósito, descer na Av. Mário Pedro Vercellino, 430 + caminhada aproximadamente 24min - Horários de Saída 10h, 11h15, 11h20, 12h, 12h30",
+    "descricao": "Um dos pontos mais icônicos de Boituva. Voo ao amanhecer com vista panorâmica da região (dura cerca de 40-60 minutos).",
+    "categoria": "adrenalina"
+  },
+  {
+    "id": 3,
+    "nome": "Parque Ecológico Eugênio Walter",
+    "endereco": "Avenida Pedro Eid, s/n - Parque Ecológico",
+    "conducao": "Ir até o  Terminal Rodoviário Pedro Leonardo e pegar o Onibus 6101 - Sorocaba, descer na Av. dos Trabalhadores, 1400 + caminhada aproximadamente 30min - Horários ônibus 11h15, 15h, 16h30, 18h10",
+    "descricao": "Um dos mais visitados. Tem áreas verdes, lago com pedalinho, tirolesa, arvorismo, playground e um pequeno zoológico com animais resgatados.",
+    "categoria": "natureza"
+  },
+  {
+    "id": 4,
+    "nome": "Parque da Cidade Egídio Labronici",
+    "endereco": "Rua José Amádio, 110 - Jardim Preana",
+    "conducao": "do Terminal Rodoviário de Boituva ir caminhando até a Rua Prof. José Assad Atalla Junior",
+    "descricao": "Espaço verde com playground, áreas para piquenique e lazer em família. Ótimo para relaxar.",
+    "categoria": "natureza"
+  },
+  {
+    "id": 5,
+    "nome": "Museu do Tropeiro",
+    "endereco": "Estrada Municipal Laércio Marson, 140 - Jerivá",
+    "conducao": "ir de Carro",
+    "descricao": "Um mergulho nacultura e história do interior paulista",
+    "categoria": "cultura"
+  },
+  {
+    "id": 6,
+    "nome": "Estação Ferroviária de Boituva",
+    "endereco": "Vila Genasial - Terminal Rodoviário",
+    "conducao": "do Terminal Rodoviário de Boituva ir caminhando até a Avenida Trancredo Neves",
+    "descricao": "",
+    "categoria": "cultura"
+  },
+  {
+    "id": 7,
+    "nome": "Pesqueiro Ommas",
+    "endereco": "Estrada Fazenda do Pinhal, 3549",
+    "conducao": "Ir até o  Terminal Rodoviário Pedro Leonardo e pegar o Onibus 6101 - Sorocaba, descer na Av. Zélia de Lima Rosa, 3800 + caminhada aproximadamente 30min - Horários ônibus 11h15, 15h, 16h30, 18h10",
+    "descricao": "Local de pesca esportiva com lagos",
+    "categoria": "pesca"
+  },
+  {
+    "id": 8,
+    "nome": "Bar Zé da Varge",
+    "endereco": "Avenida Trancredo Neves, 01 - Centro",
+    "conducao": "do Terminal Rodoviário de Boituva ir caminhando até a Aenida Tancredo Neves",
+    "descricao": "",
+    "categoria": "gastronomia"
+  },
+  {
+    "id": 9,
+    "nome": "Cachaçaria 3 Coroneis",
+    "endereco": "Fazenda Pinhal",
+    "conducao": "Ir até o  Terminal Rodoviário Pedro Leonardo e pegar o Onibus 6101 - Sorocaba, descer na Av. Zélia de Lima Rosa, 3800 + caminhada aproximadamente 30min - Horários ônibus 11h15, 15h, 16h30, 18h10",
+    "descricao": "",
+    "categoria": "gastronomia"
+  },
+  {
+    "id": 10,
+    "nome": "Igreja Matriz de São Roque",
+    "endereco": "Rua São João, 43 - Vila Ferriello",
+    "conducao": "do Terminal Rodoviário de Boituva ir caminhando até a Rua Expedicionário Boituvense depois pegar a Rua Coronel Eugênio Motta",
+    "descricao": "",
+    "categoria": "cultura"
+  },
+  {
+    "id": 11,
+    "nome": "Feira da Lua",
+    "endereco": "Rua Aliídio A. Rosa, Avenida Alfredo Satorelli",
+    "conducao": "do Terminal Rodoviário de Boituva ir caminhando até a Rua Coronel Eugênio Motta",
+    "descricao": "Artesanato e Comida",
+    "categoria": "artesanato"
+  },
+  {
+    "id": 12,
+    "nome": "Pesqueiro Boitupesca",
+    "endereco": "Estrada Boituva, KM 22",
+    "conducao": "ir de Carro",
+    "descricao": "",
+    "categoria": "pesca"
+  },
+  {
+    "id": 13,
+    "nome": "Cachaçaria Zé da Varge",
+    "endereco": "Estrada Municiapla José Soares Coelho",
+    "conducao": "ir de Carro",
+    "descricao": "Famoso Alambique Artesanal e moda de Viola",
+    "categoria": "gastronomia"
+  }
+]
